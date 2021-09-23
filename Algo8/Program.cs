@@ -6,7 +6,7 @@ namespace Algo8
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            // здесь будет выполненное ДЗ
         }
     }
 }
